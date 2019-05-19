@@ -1,0 +1,18 @@
+#include <allegro.h>
+#define  MAXFILAS 20   ///para el eje y
+#define  MAXCOLS  31   ///para el eje x
+
+char mapa [MAXFILAS][MAXCOLS] = {
+     "XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+     "X                           X",
+     "X  XXX                      X",
+     "X  XXX                      X",
+     "X                           X",
+     "X                           X",
+     "X                           X",
+     "X                           X",
+     "X                           X",
+     "X                           X",
+     "X                           X",
+     
+}
